@@ -325,3 +325,7 @@ li{
 .fontSize{
     font-size: x-large;
 }
+#QRcode {
+    display: block;
+    margin: 0 auto;
+}
